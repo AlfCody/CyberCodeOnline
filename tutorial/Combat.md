@@ -28,14 +28,19 @@ The combat screen will show you how much health and shield you and your opponent
   
 ## Enemy Modifiers
   
-Enemies can have modifiers, which are indicated by an adjective before the enemy's name e.g. "**Mad** Serial Killer", these modifiers are as follows,
+Now there are three types of enemy gang: Animals, Scavengers, and Voodoo Boys. It works according to your equipped mark gear. 
+If you have:
   
-  
-Mad - Gives the enemy +10% damage  
-Angry - Gives the enemy +10% damage  
-Tough - Gives the enemy +20% defence  
-Agile - Gives the enemy +20% stun evade and a shield  
-Shielded - Gives the enemy a large shield  
+Disruptor Equipped: Animals enemies will do 10% more damage to you and on the other hand, you will do 10% more damage to Voodoo Boys Enemy.
+
+Lethal Equipped: Scavengers will do 10% more damage to you and you will do 10% more damage to Animal Enemies.
+
+Makeshift Equipped: Voodoo boys will do 10% more damage to you and you will do 10% more damage to Scavenger Enemies.
+
+![image](https://user-images.githubusercontent.com/64877275/148200583-143e965d-79d2-4449-a73b-3907a1852a79.png)
+
+NOTE: Your Equipped Mark will be decided on most mark gears you have, secondly if you have two mark in same amount then sequence of equipment will decide you equipped mark.
+
   
 ## Player Modifiers
   
